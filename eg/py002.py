@@ -18,7 +18,7 @@ def MyThirdFunction(num1,num2):
     return num1+num2
 
 total = MyThirdFunction(2,3)
-print total
+print(total)
 
 
 def MyFourFunction(name,word):
